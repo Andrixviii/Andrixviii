@@ -1,10 +1,6 @@
-## Hi there 👋
-
 ### :fire: My Programming Language :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrixviii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
-
 ### :man_technologist: About Me :
 I am a Front-End Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I am an informatics engineering student.
