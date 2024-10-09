@@ -5,7 +5,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Front-End Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I am an informatics engineering student.
 - 🌱 I'm currently learning web programming.
