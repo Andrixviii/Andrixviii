@@ -6,6 +6,10 @@ I am a Front-End Dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - 🔭 I am an informatics engineering student.
 - 🌱 I'm currently learning web programming.
 - ⚡ In my free time, I usually play games or learn programming languages.
+
+
+![google play listing badge](https://github.com/user-attachments/assets/f7b6ccdd-ac7b-4fa0-a8bd-d7ce068bddda)
+
 <!--
 **Andrixviii/Andrixviii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
