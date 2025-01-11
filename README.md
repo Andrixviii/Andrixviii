@@ -27,7 +27,7 @@ const aboutMe = {
   <!-- React -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <!-- TailwindCSS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <!-- Git -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <!-- VS Code -->
