@@ -1,16 +1,20 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2C98F0&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Andrixviii+%F0%9F%91%8B;Frontend+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Andrixviii+%F0%9F%91%8B;Frontend+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
   </h1>
 </div>
 
 I'm a front-end developer passionate about building responsive, interactive web applications. My focus is on creating smooth, user-friendly experiences that make the web a better place. I'm constantly learning and improving my skills to stay at the forefront of web development.
 
-### :man_technologist: About Me :
-- 🎯 Specializing in responsive web design and interactive UIs
-- 🔭 Currently studying informatics engineering
-- 🌱 Always learning and exploring new web technologies
-- ⚡ In my free time, I enjoy gaming and learning new programming languages
+```javascript
+const aboutMe = {
+  role: "Frontend Developer",
+  passions: ["JavaScript", "Web Development", "UI/UX"],
+  dailyTools: ["React", "TailwindCSS", "Node.js"],
+  currentlyLearning: "Advanced JavaScript Patterns",
+  funFact: "I dream in callbacks and think in promises! 🚀"
+};
+```
 
 ### 🛠️ Languages and Tools :
 <div>
