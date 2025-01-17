@@ -46,11 +46,11 @@ const aboutMe = {
 
 
 ### :fire: My Programming Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrixviii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrixviii&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
     <summary>GitHub Stats</summary>
     <br>
-    <kbd> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrixviii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"> </kbd> 
+    <kbd> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Andrixviii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> </kbd> 
     <img src="https://github-profile-trophy.vercel.app/?username=Andrixviii">
 </details>
