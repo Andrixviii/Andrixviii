@@ -1,4 +1,8 @@
+
+
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/810316c1-9971-4af5-9e14-d37194a3a26e" title="Herta" alt="Herta" width="100" height="100"/>
+  
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Andrixviii+%F0%9F%91%8B;Frontend+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
   </h1>
@@ -39,6 +43,7 @@ const aboutMe = {
 </div>
 
 ---
+
 
 ### :fire: My Programming Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrixviii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
