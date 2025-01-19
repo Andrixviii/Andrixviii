@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/810316c1-9971-4af5-9e14-d37194a3a26e" title="Herta" alt="Herta" width="100" height="100"/>
   
