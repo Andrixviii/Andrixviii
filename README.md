@@ -11,7 +11,7 @@
 const aboutMe = {
   role: "Fullstack Developer",
   passions: ["JavaScript", "Go", "Web Development", "UI/UX"],
-  dailyTools: ["React", "TailwindCSS", "Node.js", "Golang"],
+  dailyTools: ["React", "TailwindCSS", "Node.js", "Golang", "Docker"],
   currentlyLearning: "Advanced JavaScript and Golang Patterns",
 };
 ```
@@ -38,6 +38,12 @@ const aboutMe = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <!-- GO -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+</div>
+  <!-- Docker -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
+</div>
+  <!-- Linux -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
